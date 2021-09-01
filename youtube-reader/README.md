@@ -1,0 +1,1 @@
+This project is an imitation fom "Section 8: Basic React" in course of "Ethereum and Solidity: The Complete Developer's Guide", Udemy.
